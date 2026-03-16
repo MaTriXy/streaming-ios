@@ -8,12 +8,12 @@ This repository contains a simple project with a number of examples that can be 
 * [Red5 SDK License Key](#red5-pro-sdk-license-key)
 
 ### Red5 Pro Server
-You will need a functional, running Red5 Pro server web- (or locally-) accessible for the client to connect to [https://www.red5.net/red5-pro/low-latency-streaming-software/ ](https://www.red5.net/red5-pro/low-latency-streaming-software/). If you already have a [Red5 Pro Account](https://account.red5pro.com), you can find the Red5 Pro Server download at [https://account.red5pro.com/download](https://account.red5pro.com/download).
+You will need a functional, running [Red5 Pro](https://www.red5.net/red5-pro/low-latency-streaming-software/) server web- (or locally-) accessible for the client to connect to. If you already have a [Red5 Pro Account](https://account.red5pro.com), you can find the Red5 Pro Server download at [https://account.red5pro.com/download](https://account.red5pro.com/download).
 
 > If you do not have a Red5 Pro account, sign up for 30 day trial [here](https://account.red5.net/register).
 
 ### Red5 SDK License Key
-A Red5 SDK License Key is required to use the iOS Mobile SDK [https://www.red5.net/live-streaming-sdks/](https://www.red5.net/live-streaming-sdks/). If you already have a Red5 Pro Account, you can find your Red5 SDK License Key at [https://account.red5pro.com/overview](https://account.red5pro.com/overview).
+A [Red5 SDK](https://www.red5.net/live-streaming-sdks/) License Key is required to use the iOS Mobile SDK. If you already have a Red5 Pro Account, you can find your Red5 SDK License Key at [https://account.red5pro.com/overview](https://account.red5pro.com/overview).
 
 > You will need to copy the `SDK License` into the `license_key` property field of the [tests.plist](R5ProTestbed/tests.plist).
 
