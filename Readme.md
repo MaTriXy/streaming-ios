@@ -1,4 +1,4 @@
-# Red5 Pro iOS Streaming Testbed
+# Red5 Pro iOS Streaming Testbed(the Deprecated SDK)
 
 This repository contains a simple project with a number of examples that can be used for testing and reference.
 
